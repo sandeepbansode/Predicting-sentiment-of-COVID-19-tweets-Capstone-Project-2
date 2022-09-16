@@ -5,3 +5,5 @@ You are given the following information:
 2. Tweet At
 3. Original Tweet
 4. Label
+
+![image](https://user-images.githubusercontent.com/102898510/190577557-7c926ef2-538e-406b-b901-ac4afd418e1d.png)
